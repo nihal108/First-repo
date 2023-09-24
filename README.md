@@ -1,4 +1,4 @@
 # First-repo
 This is my first repository
-<b/r
+<br/>
 Author - Nihal Gupta 
